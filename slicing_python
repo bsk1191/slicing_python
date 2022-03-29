@@ -1,0 +1,37 @@
+# Slicing 
+# print(len('Honorificabilitudinitatibus'))
+# a='Honorificabilitudinitatibus'
+# print(a,type(a))
+# print('Honorificabilitudinitatibus'[0])
+# print(a[0])
+
+# b='honor'
+# print(a[0]+a[1]+a[2]+a[3]+a[4])
+# print(a[-1])
+# print(a[-6])
+# print(a[-20])
+# print(a[2])
+# print(a[4])
+
+# b='Honorificabilitudinitatibus'
+# print(b[:])
+# print(b[0:])
+# print(b[:28])
+# print(b[0:28])
+# print(b[-27:])
+# print(b[-27:-1])
+# print(b[:5])
+# print(b[24:28])
+# print(b[5:28])
+# print(b[-22:-1])
+# print(b[-27:-22])
+# print(b[0:-1])
+# print(b[0:-5])
+# print(b[0:-22])
+
+
+
+
+
+
+
